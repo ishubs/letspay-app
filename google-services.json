@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700112150942",
+    "project_id": "useletspay",
+    "storage_bucket": "useletspay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700112150942:android:7100145a168c6b6b9f768f",
+        "android_client_info": {
+          "package_name": "com.letspay.letspay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFs1xp7i_tk2XtYCE-IqNZYqzU3MMBelA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
